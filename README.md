@@ -1,4 +1,5 @@
 # Globalnet Tech Solutions
+https://festuskyalomutua.github.io/globalnettechsolutions
 
 ## Welcome to Globalnet Tech Solutions
 
@@ -21,7 +22,7 @@ Our mission is to empower businesses through technology. We strive to deliver hi
 ### Contact Us
 Ready to take your business to the next level? Connect with us today!  
 Email: info@globalnettechsolutions.com  
-Phone: +123-456-7890  
+Phone: +254710694981  
 
 Join us in revolutionizing the way you do business with technology!  
 
